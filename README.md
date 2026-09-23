@@ -36,7 +36,7 @@ I-am-ReviaxZ@github
 - <h4>My social media</h4>
   <a href="https://www.facebook.com/share/1SnqrenN9Q/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Boris" height="30" width="40" /></a>
   <a href="https://www.instagram.com/xa_flores?stkn=OXA1bmQwNXZuc21w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Boris" height="30" width="40" /></a>
-<a href = 'https://github.com/ReviaxZ'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
+  <a href = 'https://github.com/ReviaxZ'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
 
 
 - <h4>Tools</h4>
